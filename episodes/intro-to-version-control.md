@@ -41,6 +41,7 @@ Here’s an integrated version that includes the dissertation example:
 
 - Enables collaboration and contribution to digital research projects
 - Manages file changes without needing multiple copies
+- Helps track and manage library-developed software projects
 
 **GitHub** is a platform for hosting Git repositories, used for open-source projects, journals, blogs, and more. Alternatives include GitLab, Bitbucket, and Gitee.
 
@@ -54,8 +55,11 @@ Here’s an integrated version that includes the dissertation example:
 **Scenario 1: Writing a Dissertation**  
 Librarians and information professionals can assist authors, especially those writing theses or dissertations, by introducing them to tools like Git for versioning their work. Git enables authors to track changes, collaborate with advisors, and manage different versions of their documents without creating multiple file copies. This lesson uses the thesis writing process as an example to demonstrate how Git can be a powerful tool for managing and sharing work.
 
-**Scenario 2: Crowdsourcing Project**  
+**Scenario 2: Managing Library Software** 
+Libraries develop and use software for internal systems and services. Git and GitHub help library teams track code changes, collaborate on development, and manage different software versions.
+
+**Scenario 3: Crowdsourcing Project**  
 A librarian can "fork" an existing GitHub project to reuse code for a new crowdsourcing project, modifying it for their specific needs.
 
-**Scenario 3: Collaborative Metadata Editing**  
+**Scenario 4: Collaborative Metadata Editing**  
 A team can use Git/GitHub to track changes to a shared metadata spreadsheet, review edits, and preserve the original data.
