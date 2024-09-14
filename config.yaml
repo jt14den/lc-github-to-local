@@ -50,8 +50,8 @@ contact: 'team@carpentries.org' # FIXME
 #
 # Example -------------
 #
-# episodes:
-# - introduction.md
+episodes:
+- intro-to-version-control.md
 # - first-steps.md
 #
 # learners:
