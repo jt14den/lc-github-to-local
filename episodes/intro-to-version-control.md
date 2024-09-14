@@ -1,21 +1,22 @@
 ---
-title: "Using Markdown"
+title: What is Git/GitHub?
 teaching: 10
-exercises: 2
+exercises: 0
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions 
+::::::::::::::::::::::::::::::::::::::: objectives
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- recognize why version control is useful
+- distinguish between Git and GitHub
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: objectives
+:::::::::::::::::::::::::::::::::::::::: questions
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- What is Git?
+- What is GitHub?
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
