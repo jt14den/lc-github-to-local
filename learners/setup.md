@@ -2,53 +2,47 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+### Installing GitHub Desktop
 
-## Data Sets
-
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
-
-## Software Setup
-
-::::::::::::::::::::::::::::::::::::::: discussion
-
-### Details
-
-Setup for different systems can be presented in dropdown menus via a `spoiler`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: spoiler
+:::::::::::::::::::::: tab
 
 ### Windows
 
-Use PuTTY
+1. Go to the [GitHub Desktop website](https://desktop.github.com/) and download the `.exe` file for Windows.
+2. Open the downloaded `.exe` file.
+3. Follow the installation prompts to complete the setup.
+4. Once installed, launch GitHub Desktop from the Start menu.
+5. Sign in to your GitHub account or create a new one.
+6. Configure your repository settings and you're ready to use GitHub Desktop.
 
-::::::::::::::::::::::::
+:::::::::::::::::::::::::
 
-:::::::::::::::: spoiler
+:::::::::::::::::::::: tab
 
-### MacOS
+### macOS
 
-Use Terminal.app
+1. Go to the [GitHub Desktop website](https://desktop.github.com/) and download the `.dmg` file for macOS.
+2. Open the downloaded `.dmg` file.
+3. Drag the GitHub Desktop icon to the Applications folder.
+4. Launch GitHub Desktop from your Applications folder.
+5. Sign in to your GitHub account or create a new one.
+6. Configure your repository settings and you're ready to use GitHub Desktop.
 
-::::::::::::::::::::::::
+:::::::::::::::::::::::::
 
-
-:::::::::::::::: spoiler
+:::::::::::::::::::::: tab
 
 ### Linux
 
-Use Terminal
+GitHub Desktop is not officially supported on Linux, but you can install it via a community-maintained version using `GitHub CLI`:
 
-::::::::::::::::::::::::
+```bash
+sudo apt install github-desktop
+```
+
+Or use alternatives like [GitKraken](https://www.gitkraken.com/) or [Git-Cola](https://git-cola.github.io/).
+
+:::::::::::::::::::::::::
+
+This layout will render tabs for each operating system, making it easy for users to follow the appropriate instructions.
 
