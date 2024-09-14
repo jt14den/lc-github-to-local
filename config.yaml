@@ -21,10 +21,10 @@ carpentry_description: 'Lesson Description'
 title: 'Lesson Title' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2024-09-14
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'software, data, lesson, The Carpentries, git, github, version control' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md' # FIXME
+source: 'https://github.com/jt14den/lc-github-to-local' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
@@ -50,12 +50,12 @@ contact: 'team@carpentries.org' # FIXME
 #
 # Example -------------
 #
-# episodes:
-# - introduction.md
+#episodes:
+#
 # - first-steps.md
 #
-# learners:
-# - setup.md
+#learners:
+#- setup.md
 #
 # instructors:
 # - instructor-notes.md
@@ -66,10 +66,11 @@ contact: 'team@carpentries.org' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
+- intro-to-version-control.md
 
 # Information for Learners
 learners: 
+- setup.md
 
 # Information for Instructors
 instructors: 
