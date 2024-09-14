@@ -68,6 +68,7 @@ contact: 'team@carpentries.org' # FIXME
 episodes: 
 - intro-to-version-control.md
 - setting-up-github.md
+- creating-and-merging-pull-requests.md
 
 # Information for Learners
 learners: 
