@@ -67,6 +67,7 @@ contact: 'team@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - intro-to-version-control.md
+- setting-up-github.md
 
 # Information for Learners
 learners: 
