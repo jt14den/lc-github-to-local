@@ -4,7 +4,7 @@ title: Setup
 
 ### Installing GitHub Desktop
 
-:::::::::::::::::::::: tab
+::::::::::::::::::::: group-tab
 
 ### Windows
 
@@ -15,10 +15,6 @@ title: Setup
 5. Sign in to your GitHub account or create a new one.
 6. Configure your repository settings and you're ready to use GitHub Desktop.
 
-:::::::::::::::::::::::::
-
-:::::::::::::::::::::: tab
-
 ### macOS
 
 1. Go to the [GitHub Desktop website](https://desktop.github.com/) and download the `.dmg` file for macOS.
@@ -27,10 +23,6 @@ title: Setup
 4. Launch GitHub Desktop from your Applications folder.
 5. Sign in to your GitHub account or create a new one.
 6. Configure your repository settings and you're ready to use GitHub Desktop.
-
-:::::::::::::::::::::::::
-
-:::::::::::::::::::::: tab
 
 ### Linux
 
@@ -42,7 +34,4 @@ sudo apt install github-desktop
 
 Or use alternatives like [GitKraken](https://www.gitkraken.com/) or [Git-Cola](https://git-cola.github.io/).
 
-:::::::::::::::::::::::::
-
-This layout will render tabs for each operating system, making it easy for users to follow the appropriate instructions.
-
+:::::::::::::::::::::::::::::::
