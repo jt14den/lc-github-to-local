@@ -15,3 +15,10 @@ Name your repository “Thesis” and then click “Create Repository”.
 ## Add a README file
 Note: It is good practice to have “Initialize this repository with a README” checked. 
 ::::::::::::::::::::
+
+To keep it simple, leave “None” as options for both “Add .gitignore” and “Add a license.” 
+
+For more information about the .gitignore file please go to the lesson number. 
+
+Once you created the repository you will see a page like the one below. 
+The repository contains only one readme file 
