@@ -18,7 +18,7 @@ carpentry: 'incubator'
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Library Carpentry: GitHub to Local Version Control with GitHub Desktop' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: 2024-09-14

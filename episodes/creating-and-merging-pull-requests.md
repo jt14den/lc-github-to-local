@@ -1,5 +1,5 @@
 ---
-title: GitHub Pull Requests
+title: Creating and Merging Pull Requests
 teaching: 20
 exercises: 0
 ---
